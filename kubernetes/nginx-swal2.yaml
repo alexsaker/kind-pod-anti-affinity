@@ -9,4 +9,4 @@ spec:
   - name: nginx
     image: nginx
   nodeSelector:
-    level: swal2
+    safety: SWAL2
